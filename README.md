@@ -5,7 +5,7 @@ Static HTML website designed for GitHub Pages.
 ## Before publishing
 1. Replace every `https://YOUR-DOMAIN.com` with the final domain.
 2. Add the actual book cover image if desired.
-3. The second book title is already entered as: An Essential Guide: Top-Down Parenting: Raising California’s Youngest Attorneys.
+3. The second book title and both uploaded book-cover images are already included.
 4. Publish through GitHub Pages.
 5. Add the custom domain later.
 6. Register the final domain in Google Search Console and submit `/sitemap.xml`.
@@ -22,3 +22,7 @@ Static HTML website designed for GitHub Pages.
 
 ## Important
 The article pages summarize published reporting and link to the original publishers rather than copying their articles.
+
+
+## Current professional updates
+The Peter and Sophia pages state their current LinkedIn-listed role as Deputy District Attorney with the Los Angeles County District Attorney's Office. Verify any future employment change before editing.
